@@ -41,7 +41,7 @@ void loop()
       Height.write(servo3);
       delay(10);
     }
-    if (realservo >= 3000 && realservo <3180) {
+    if (realservo >= 4000 && realservo <3180) {
       int servo4 = realservo;
       servo4 = map(servo4, 4000, 4180, 0, 180);
       Grab.write(servo4);
