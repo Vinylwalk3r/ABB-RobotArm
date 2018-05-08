@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "ABB_Robotarm.ino",
-    "port": "COM1"
-}
