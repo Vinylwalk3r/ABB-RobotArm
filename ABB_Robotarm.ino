@@ -5,7 +5,7 @@ Servo Rotate, Stretch, Height, Grab; // servo name
 
 void setup()
 {
-  Rotate.attach(3); // attach servo signal wire to pin 9
+  Rotate.attach(3); // attach servo wires to designated pins
   Stretch.attach(5);
   Height.attach(6);
   Grab.attach(7);
